@@ -1,0 +1,9 @@
+scrapy
+beautifulsoup4
+transformers
+huggingface_hub
+nltk
+transformers
+torch
+gradio
+streamlit
